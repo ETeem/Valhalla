@@ -1,0 +1,2 @@
+#!/bin/bash
+su - splunk -c "/proj/app/splunk/bin/splunk restart"
